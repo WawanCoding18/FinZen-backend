@@ -519,3 +519,4 @@ Aturan penting:
 - Subject harus singkat, jelas, dan menggambarkan perubahan utama.
 - Gunakan bahasa Inggris untuk konsistensi commit message.
 - Hindari commit message yang terlalu umum seperti "update" atau "fix bug" tanpa konteks.
+# FinZen-backend
